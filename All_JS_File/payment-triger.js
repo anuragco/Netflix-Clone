@@ -34,10 +34,11 @@ var data = {
   orderId: orderid,
   txnAmount: Amnt, 
   txnNote: 'Test',
-  callback_url: 'http://127.0.0.1:5500/home-page/forgetpasswordhelper/conformpayment.html',
+  callback_url: 'http://127.0.0.1:5500/home-page/index.html',
   cust_Mobile: 7488843862,
   cust_Email: 'anurage@gmail.com'
 };
+
 // generate CheckSum using API
   var checksum = '';
   var jsonData = JSON.stringify(data);

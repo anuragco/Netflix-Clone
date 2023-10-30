@@ -1,2 +1,9 @@
 All_JS_File/*.js
 .htaccess
+
+# Ignore all CSS files
+**/*.css
+
+
+# Exclude the "All_JS_File" folder
+All_JS_File/

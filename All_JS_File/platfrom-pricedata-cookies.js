@@ -38,7 +38,7 @@ function handleDivSelection(premiumId) {
 
 // Example usage: Call handleDivSelection when a user selects a div
 document.getElementById('price-649').addEventListener('click', function() {
-  handleDivSelection('199');
+  handleDivSelection('1');
 });
 
 document.getElementById('price-650').addEventListener('click', function() {
