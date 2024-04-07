@@ -1,6 +1,6 @@
 # Beautiful Netflix Clone
 
-Create a Netflix Clone Using HTML And CSS.
+Created a Netflix Clone Using HTML And CSS and Javascript and In the project i have covered all this like from frontent to backend and Database.
 
 This amazing web is provided in open source. So, helpful contributions are highly appreciated.
 
