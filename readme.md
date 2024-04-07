@@ -29,6 +29,6 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Contact me on <a href="mailto:aws.anu.co@gmail.com">Send email</a> to get the full source code.
 
 - clone repo and setup VsCode integration
